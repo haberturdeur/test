@@ -1,0 +1,79 @@
+CACHE MANIFEST
+
+CACHE:
+/test/semantic.js
+/test/main.js
+/test/pxtapp.js
+/test/typescript.js
+/test/marked/marked.min.js
+/test/highlight.js/highlight.pack.js
+/test/jquery.js
+/test/pxtlib.js
+/test/pxtcompiler.js
+/test/pxtpy.js
+/test/pxtblockly.js
+/test/pxtwinrt.js
+/test/pxteditor.js
+/test/pxtsim.js
+/test/pxtembed.js
+/test/pxtworker.js
+/test/pxtweb.js
+/test/blockly.css
+/test/semantic.css
+/test/rtlsemantic.css
+
+
+/test/editor.js
+/test/fieldeditors.js
+
+# blockly
+/test/blockly/media/sprites.png
+/test/blockly/media/click.mp3
+/test/blockly/media/disconnect.wav
+/test/blockly/media/delete.mp3
+
+# monaco; keep in sync with webapp/public/index.html
+/test/vs/loader.js
+/test/vs/base/worker/workerMain.js
+/test/vs/basic-languages/bat/bat.js
+/test/vs/basic-languages/cpp/cpp.js
+/test/vs/basic-languages/python/python.js
+/test/vs/basic-languages/typescript/typescript.js
+/test/vs/basic-languages/markdown/markdown.js
+/test/vs/editor/editor.main.css
+/test/vs/editor/editor.main.js
+/test/vs/editor/editor.main.nls.js
+/test/vs/language/json/jsonMode.js
+/test/vs/language/json/jsonWorker.js
+/test/vs/language/typescript/tsMode.js
+/test/vs/language/typescript/tsWorker.js
+
+# charts
+/test/smoothie/smoothie_compressed.js
+/test/images/Bars_black.gif
+
+# gifjs
+/test/gifjs/gif.js
+
+# ai
+/test/ai.0.js
+
+/test/worker.js
+/test/monacoworker.js
+
+# ver Wed Jul 06 2022 12:55:27 GMT+0200 (Central European Summer Time)
+
+# target
+/test/docs/static/logo.portrait.white.svg
+/test/docs/static/logo.square.white.svg
+/test/docs/static/logo.square.white.svg
+/test/docs/static/logo.portrait.black.svg
+/test/docs/static/icons/apple-touch-icon.png
+/test/docs/static/icons/apple-touch-icon.png
+/test/docs/static/Microsoft_logo_rgb_W-white_D-square.png
+/test/docs/static/Microsoft_logo_rgb_W-white_D.png
+
+/test/target.js
+
+NETWORK:
+*
